@@ -1,0 +1,20 @@
+{
+    "name": "dynaconfig",
+    "version": "0.0.1",
+    "description": "Arduino WiFi dynamic configuration library for ESP32 using captive portal authentication.",
+    "keywords": ["WiFi", "Captive-Portal", "configuration", "ESP32"],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/nthnn/dynaconfig"
+    },
+    "authors": [
+      {
+        "name": "nathannestein",
+        "email": "nathanneisip@gmail.com",
+        "url": "https://nthnn.github.io/"
+      }
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/nthnn/dynaconfig",
+    "frameworks": "*"
+}
