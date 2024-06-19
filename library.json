@@ -16,5 +16,9 @@
     ],
     "license": "MIT",
     "homepage": "https://github.com/nthnn/dynaconfig",
-    "frameworks": "*"
+    "frameworks": "arduino",
+    "dependencies": {
+      "me-no-dev/AsyncTCP": "*",
+      "me-no-dev/ESPAsyncWebServer": "*"
+    }
 }
