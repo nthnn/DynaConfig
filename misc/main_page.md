@@ -11,6 +11,12 @@ DynaConfig is a library for managing WiFi configuration on ESP32 devices using a
 - **Automatic WiFi Connection**: Connects to the stored WiFi network if credentials are available.
 - **Fallback Mode**: Starts the captive portal if no credentials are found or if the connection fails.
 
+## Screenshots
+
+| Captive Portal Index Page                        | Captive Portal Success Page                        |
+|--------------------------------------------------|----------------------------------------------------|
+| ![Index Page](misc/screenshots/screenshot-1.png) | ![Success Page](misc/screenshots/screenshot-2.png) |
+
 ## Getting Started
 
 ### Installation
