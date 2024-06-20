@@ -15,7 +15,7 @@ DynaConfig is a library for managing WiFi configuration on ESP32 devices using a
 
 | Captive Portal Index Page                        | Captive Portal Success Page                        |
 |--------------------------------------------------|----------------------------------------------------|
-| ![Index Page](misc/screenshots/screenshot-1.png) | ![Success Page](misc/screenshots/screenshot-2.png) |
+| ![Index Page](https://github.com/nthnn/DynaConfig/blob/main/misc/screenshots/screenshot-1.png?raw=true) | ![Success Page](https://github.com/nthnn/DynaConfig/blob/main/misc/screenshots/screenshot-2.png?raw=true) |
 
 ## Getting Started
 
